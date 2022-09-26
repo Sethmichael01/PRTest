@@ -1,0 +1,16 @@
+visit the repo url.
+clone the project
+open the project folder using gitbash 
+use the following commands:
+
+git checkout -b devtbahd
+
+change/edit or add a text in the "ProjectSeth" file
+
+The next steps below after adding your text.
+
+git add .
+git commit -m "Your change description"
+git push origin devtbahd
+
+
